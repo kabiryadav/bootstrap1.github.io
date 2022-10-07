@@ -1,0 +1,42 @@
+ .container{border: 2px solid red;}
+
+ .one {background-color: black;
+    color: #fff;}
+
+    
+ .tow {background-color: rgb(159, 48, 48);
+    color: #fff;}
+    
+ .three{background-color: rgb(34, 12, 12);
+    color: #fff;}
+    
+ .for {background-color: rgb(37, 136, 98);
+    color: #fff;}
+
+    .center{ 
+            height: auto;
+            background-color: red;
+            color: #fff;
+            text-align: center;
+            }
+
+        .center3{background-color: blue;}
+       .green{background-color: green;
+               border: 1px solid red;}
+
+         .pink{background-color: pink;
+            border: 1px solid red;}
+
+      .gary{background-color:rgb(140, 140, 53);
+            border: 1px solid red;}
+
+         .vertical{height: 600px;
+                  border: 2px solid red;
+                  background-color: aliceblue;}
+
+               .po {height: 400px;
+                  background-color: aquamarine;
+                  color: rgb(67, 63, 63);}
+
+            .mar{background-color: black;
+               color: #fff;}
